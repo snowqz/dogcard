@@ -5,8 +5,9 @@
     "license": "MIt",
     "dependencies": {
         "core": "*",
-        "radio": "*"
-    },
+        "radio": "*",
+        "dogcard":"github:snowqz/dogcard.git#0.0.1"
+         },
     "files": [
         "README.md",
         "main.ts"
@@ -14,5 +15,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "https://github.com/snowqz/dogcard.git#0.0.1"
 }
